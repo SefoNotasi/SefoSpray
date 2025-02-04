@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	addonSteamAppID			550
+	addontitle				"Sefo spray"
+	addonversion			1.0.0
+	addontagline			"Embraced by Light."
+	addonauthor				"Sefo"
+	addonSteamGroupName		"Left4Legend"
+	addonauthorSteamID 		"Notasi"
+	addonContent_Campaign	0
+	addonURL0				"https://Sefo.su"
+	addonDescription		"Sefo spray."
+	addonDescription_RU		"Спрей Сефо."
+	addonContent_Spray		1
+}

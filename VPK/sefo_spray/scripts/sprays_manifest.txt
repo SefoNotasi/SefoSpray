@@ -1,0 +1,4 @@
+sprays_manifest
+{
+	"spray_sefo"	"spray_sefo.vtf"
+}
